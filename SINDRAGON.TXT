@@ -5,7 +5,7 @@ local messages = {
     "-gh 150381051,150381051,150381051,150381051,150381051,150381051,150381051, 150381051,150381051",
     "-gh 111793953309477,113048125789248,117186631495734,132770514241770,167 5111087,3756389957,173235788",
     "-net", -- Added right below -pd
-    "SCriPt By MG_MANASR7 "
+    "SCriPt By MG_MANASR7 Its V2 "
 }
 
 -- Function to safely send chat messages across different Roblox chat systems
